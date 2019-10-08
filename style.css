@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* *************QUESTION SCREEN*********** */
+
+.question-wrap{
+    background-image: url(./Photoshop/bg.jpg);
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+
+.question-wrap img{
+    width: 500px;
+    padding-top: 50px;
+}
+.question-title{
+    color: white;
+    font-size: 45px;
+    padding-top: 50px;
+}
+.answers{
+    display: grid;
+    grid-template-columns: repeat(2, 150px);
+    justify-content: center;
+    grid-gap: 40px;
+    padding-top: 40px; 
+}
+.ans-btn{
+    border: 3px solid rgb(77, 77, 0);
+    border-radius: 8px;
+    padding: 10px 30px;
+    cursor: pointer;
+    color: white;
+}
+/* ****************** ANSWER COLORS ******************  */
+.ans-btn-false{
+   background-color: red;
+}
+.ans-btn-true{
+    background-color: rgb(94, 255, 0);
+ }
+/* ****************** end ANSWER COLORS ******************  */
+
+.next-btn{
+    border: 3px solid rgb(0, 143, 187);
+    border-radius: 8px;
+    padding: 10px 30px;
+    display: inline-block;
+    margin-top: 30px;
+    cursor: pointer;
+    color: white;
+}
+.start{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+/* ***********************STARTING SCREEN************************  */
+
+.starting-screen{
+    background-image: url(./Photoshop/start-bg.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    text-align: center;
+}
+.title h1{
+    
+    font-size: 70px;
+    color: #ffe82f;
+    padding-top: 150px;
+}
+.jedi-starter-btn{
+    position :absolute;
+    bottom: 100px;
+    left: 47%;
+}
+
+img{
+    width: 150px;
+}

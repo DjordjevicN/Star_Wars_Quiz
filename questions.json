@@ -1,0 +1,244 @@
+{
+    "questions": [
+        {
+            "question_id": "0",
+            "question": "How many suns is Luke watching set in this shot?",
+            "image": "./Photoshop/question1.jpg",
+            "correct": "2",
+            "answers": [
+                {
+                    "answer_id": "0",
+                    "answer": " 1"
+                },
+                {
+                    "answer_id": "1",
+                    "answer": " 2"
+                },
+                {
+                    "answer_id": "2",
+                    "answer": "3"
+                },
+                {
+                    "answer_id": "3",
+                    "answer": "4"
+                }
+            ]
+        },
+        {
+            "question_id": "1",
+            "question": "What species is Jabba?",
+            "image": "./Photoshop/question2.jpg",
+            "correct": "4",
+            "answers": [
+                {
+                    "answer_id": "0",
+                    "answer": "Ithorian"
+                },
+                {
+                    "answer_id": "1",
+                    "answer": "Jawa"
+                },
+                {
+                    "answer_id": "2",
+                    "answer": "Jenet"
+                },
+                {
+                    "answer_id": "3",
+                    "answer": "Hutt"
+                }
+            ]
+        },
+        {
+            "question_id": "2",
+            "question": "On which planet do we first meet Rey in The Force Awakens?",
+            "image": "./Photoshop/question3.jpg",
+            "correct": "3",
+            "answers": [
+                {
+                    "answer_id": "0",
+                    "answer": "Dantoonie "
+                },
+                {
+                    "answer_id": "1",
+                    "answer": "Tatooine"
+                },
+                {
+                    "answer_id": "2",
+                    "answer": "Jakku"
+                },
+                {
+                    "answer_id": "3",
+                    "answer": "Farlax"
+                }
+            ]
+        },
+        {
+            "question_id": "3",
+            "question": "Who built C-3PO?",
+            "image": "./Photoshop/question4.jpg",
+            "correct": "4",
+            "answers": [
+                {
+                    "answer_id": "0",
+                    "answer": "Luke"
+                },
+                {
+                    "answer_id": "1",
+                    "answer": "Obi-Wan"
+                },
+                {
+                    "answer_id": "2",
+                    "answer": "Yoda"
+                },
+                {
+                    "answer_id": "3",
+                    "answer": "Anakin"
+                }
+            ]
+        },
+        {
+            "question_id": "4",
+            "question": "Which furry species lives on the forest moon of Endor?",
+            "image": "./Photoshop/question5.jpg",
+            "correct": "1",
+            "answers": [
+                {
+                    "answer_id": "0",
+                    "answer": "Ewoks"
+                },
+                {
+                    "answer_id": "1",
+                    "answer": "Wookiees"
+                },
+                {
+                    "answer_id": "2",
+                    "answer": "Hutts"
+                },
+                {
+                    "answer_id": "3",
+                    "answer": "Jawas"
+                }
+            ]
+        },
+        {
+            "question_id": "5",
+            "question": "How many parsecs did Han Solo make the Kessel Run in?",
+            "image": "./Photoshop/question6.jpg",
+            "correct": "3",
+            "answers": [
+                {
+                    "answer_id": "0",
+                    "answer": "8"
+                },
+                {
+                    "answer_id": "1",
+                    "answer": "10"
+                },
+                {
+                    "answer_id": "2",
+                    "answer": "12"
+                },
+                {
+                    "answer_id": "3",
+                    "answer": "14"
+                }
+            ]
+        },
+        {
+            "question_id": "6",
+            "question": "Where do Luke and Obi-Wan meet Han and Chewie?",
+            "image": "./Photoshop/question7.jpg",
+            "correct": "1",
+            "answers": [
+                {
+                    "answer_id": "0",
+                    "answer": "Mos Eisley"
+                },
+                {
+                    "answer_id": "1",
+                    "answer": "Mos Def"
+                },
+                {
+                    "answer_id": "2",
+                    "answer": "Mos Davos"
+                },
+                {
+                    "answer_id": "3",
+                    "answer": "Mos Vargas"
+                }
+            ]
+        },
+        {
+            "question_id": "7",
+            "question": "How old was Yoda when he died?",
+            "image": "./Photoshop/question8.jpg",
+            "correct": "4",
+            "answers": [
+                {
+                    "answer_id": "0",
+                    "answer": "600"
+                },
+                {
+                    "answer_id": "1",
+                    "answer": "700"
+                },
+                {
+                    "answer_id": "2",
+                    "answer": "800"
+                },
+                {
+                    "answer_id": "3",
+                    "answer": "900"
+                }
+            ]
+        },
+        {
+            "question_id": "8",
+            "question": "What does Han say when Leia says she loves him?",
+            "image": "./Photoshop/question9.jpg",
+            "correct": "1",
+            "answers": [
+                {
+                    "answer_id": "0",
+                    "answer": "I know"
+                },
+                {
+                    "answer_id": "1",
+                    "answer": "I love you too"
+                },
+                {
+                    "answer_id": "2",
+                    "answer": "Yeah yeah"
+                },
+                {
+                    "answer_id": "3",
+                    "answer": "What else is new"
+                }
+            ]
+        },
+        {
+            "question_id": "9",
+            "question": "What are these four-legged giants called?",
+            "image": "./Photoshop/question10.jpg",
+            "correct": "3",
+            "answers": [
+                {
+                    "answer_id": "0",
+                    "answer": "AN-AE"
+                },
+                {
+                    "answer_id": "1",
+                    "answer": "AR-AR"
+                },
+                {
+                    "answer_id": "2",
+                    "answer": "AT-AT"
+                },
+                {
+                    "answer_id": "3",
+                    "answer": "TA-AA"
+                }
+            ]
+        }
+    ]
+}
